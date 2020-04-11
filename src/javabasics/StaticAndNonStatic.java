@@ -3,7 +3,7 @@ package javabasics;
 public class StaticAndNonStatic {
 
 	/*
-	 * we can interchange the position of static and public/protected/private no
+	 * we can interchange the position of static and public/protected/private, no
 	 * need to create object to call static member either it is method or variables
 	 * we can call static member using ClassName.methodName/variable or directly
 	 * inside main method

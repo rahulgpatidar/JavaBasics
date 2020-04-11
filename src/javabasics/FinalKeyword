@@ -1,0 +1,4 @@
+final keyword: Can be used with variable/methods/class.
+If will declare variable as final, we can not change the assigned value.
+If declare method as final, we can not override this method
+If we declare class as final, we can not extend this class
