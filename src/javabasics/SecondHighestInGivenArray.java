@@ -16,6 +16,9 @@ public class SecondHighestInGivenArray {
 			}
 
 		}
+		//smallest
+		System.out.println(a[a.length-(a.length-1)]);
+		
 		// highest element in given array
 		System.out.println(a[a.length - 1]);
 

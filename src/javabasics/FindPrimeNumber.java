@@ -3,7 +3,7 @@ package javabasics;
 public class FindPrimeNumber {
 
 	public static void main(String args[]) {
-		int num = 19; 
+		int num = 10; 
 		int count = 0;
 
 		for (int i = 2; i < num; i++) {
